@@ -1,6 +1,7 @@
 'use strict';
 
 /**
+ * @Frank Thamel
  * @ngdoc overview
  * @name angularfireSlackApp
  * @description
